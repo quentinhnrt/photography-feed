@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "photo-feed-91b23",
+    "staging-photo-feed": "photo-feed-91b23"
+  },
+  "targets": {},
+  "etags": {}
+}
